@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabletop Immersion.CSharp.Plugins", "Tabletop Immersion.CSharp.Plugins.csproj", "{BD831B09-C67D-A1ED-8A4F-0369D0A60C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabletop Immersion.CSharp", "Tabletop Immersion.CSharp.csproj", "{09BFEA57-FDC6-ED62-27E8-F88A17C202DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabletop Immersion.CSharp.Editor", "Tabletop Immersion.CSharp.Editor.csproj", "{AFCEA513-15B1-798C-B34E-DA7F76249C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD831B09-C67D-A1ED-8A4F-0369D0A60C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD831B09-C67D-A1ED-8A4F-0369D0A60C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD831B09-C67D-A1ED-8A4F-0369D0A60C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD831B09-C67D-A1ED-8A4F-0369D0A60C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BFEA57-FDC6-ED62-27E8-F88A17C202DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BFEA57-FDC6-ED62-27E8-F88A17C202DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BFEA57-FDC6-ED62-27E8-F88A17C202DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BFEA57-FDC6-ED62-27E8-F88A17C202DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCEA513-15B1-798C-B34E-DA7F76249C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCEA513-15B1-798C-B34E-DA7F76249C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCEA513-15B1-798C-B34E-DA7F76249C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCEA513-15B1-798C-B34E-DA7F76249C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
